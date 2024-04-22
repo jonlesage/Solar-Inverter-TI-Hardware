@@ -2,10 +2,10 @@
 
 This demo shows how you can quickly design a new power control system using Simulink&reg; and Embedded Coder&reg; from MathWorks&reg; and the C2000&trade; platform of microcontrollers from Texas Instruments&reg;. We walk through a solar inverter demo, where we design and simulate a maximum power point tracking (MPPT) control in Simulink, and then deploy the control with Embedded Coder to a Texas Instruments C2000 Piccolo&trade; MCU.
 
-![Solar Explorer Development Board](http://www.ti.com/diagrams/med_tmdssolarpexpkit_solar_lv_v2.jpg)
+![Solar Explorer Development Board](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/524/TMDSSOLARPEXPKIT.jpg)
 
 Hardware kit is available from TI: 
-http://www.ti.com/tool/TMDSSOLARPEXPKIT
+https://www.digikey.com/en/products/detail/texas-instruments/TMDSSOLARPEXPKIT/3028945
 
 ## Getting Started
 
