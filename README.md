@@ -24,4 +24,4 @@ A recording of this demo can be found in the "Developing Solar Inverter Control 
 https://www.mathworks.com/videos/series/developing-solar-inverter-control-with-simulink.html
 
 A modified version of this demo is available in the shipping TI Support Package Documentation now which can be used for further reference:
-https://www.mathworks.com/help/releases/R2020a/supportpkg/texasinstrumentsc2000/ug/photovoltaic-inverter-mppt-solar-explorer-kit.html"# Solar-Inverter-TI-Hardware" 
+https://www.mathworks.com/help/ti-c2000/ug/photovoltaic-solar-example.html
